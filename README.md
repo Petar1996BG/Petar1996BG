@@ -12,10 +12,6 @@
 
 - 📫 How to reach me **p.nikolov1996@gmail.com**
 
-<h3 align="left"></h3>
-
-<br><br/>
-<br><br/>
 <br><br/>
 
 
