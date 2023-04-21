@@ -22,4 +22,4 @@
 
 <p></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petar1996bg&" alt="petar1996bg" /></p>
+<p></p>
