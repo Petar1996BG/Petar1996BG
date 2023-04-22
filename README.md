@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **p.nikolov1996@gmail.com**
 
-<br><br/>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
