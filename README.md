@@ -1,4 +1,4 @@
-<img width="40" src="https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-e1624308433688.jpg?fit=2309%2C1154&strip=all"></img>
+<img width="100%" src="https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1291886933-e1624308433688.jpg?fit=2309%2C1154&strip=all"></img>
 <h1 align="center">Hi 👋, I'm Petar Nikolov</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
