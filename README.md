@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Petar1996BG/Petar1996BG](https://github.com/Petar1996BG/Petar1996BG)
 
+- 💬 Ask me about **anything. I am happy to help.**
+
 - 📫 How to reach me **p.nikolov1996@gmail.com**
 
 <br><br/>
