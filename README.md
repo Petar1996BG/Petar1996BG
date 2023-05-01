@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a website about history of Bulgaria, powered by Angular 14.**
 
-- 🌱 I’m currently learning **C# and Angular in-depth**
+- 🌱 I’m currently learning **MS SQL and Angular in-depth**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Petar1996BG/Petar1996BG](https://github.com/Petar1996BG)
 
